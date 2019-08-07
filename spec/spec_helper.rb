@@ -1,5 +1,5 @@
-require_relative '../lib/book'
-require_relative '../lib/shoe'
+require_relative '../lib/book.rb'
+require_relative '../lib/shoe.rb'
 
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate
